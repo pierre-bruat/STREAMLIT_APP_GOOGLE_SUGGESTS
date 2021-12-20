@@ -1,6 +1,5 @@
 streamlit
 pandas 
-sitemap_ping
 urllib
 bs4
 json
