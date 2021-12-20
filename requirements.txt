@@ -1,0 +1,9 @@
+
+python -m pip install streamlit
+python -m pip install pandas 
+python -m pip install sitemap_ping
+python -m pip install  urllib
+python -m pip install  bs4
+python -m pip install  json
+python -m pip install requests
+python -m pip install time
