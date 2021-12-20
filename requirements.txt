@@ -1,6 +1,6 @@
 streamlit
 pandas 
-urllib
+urllib3
 bs4
 json
 requests
