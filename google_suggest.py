@@ -1,14 +1,14 @@
-#import streamlit as st
-#import pandas as pd
-#import sitemap_ping
-#import urllib
-#from urllib.request import urlopen
-#from bs4 import BeautifulSoup
-#import json
-#import requests
-#import time
+import streamlit as st
+import pandas as pd
+import sitemap_ping
+import urllib
+from urllib.request import urlopen
+from bs4 import BeautifulSoup
+import json
+import requests
+import time
 
-#@st.cache
+@st.cache
 
 def convert_df(df):
 	return df.to_csv().encode('utf-8')
