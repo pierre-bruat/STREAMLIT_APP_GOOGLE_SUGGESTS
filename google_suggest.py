@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import sitemap_ping
+#import sitemap_ping
 import urllib
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
