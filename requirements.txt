@@ -2,6 +2,5 @@ streamlit
 pandas 
 urllib3
 bs4
-json
 requests
 time
